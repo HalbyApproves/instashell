@@ -19,7 +19,7 @@ Usage of InstaShell for attacking targets without prior mutual consent is illega
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/instashell
+git clone https://github.com/HalbyApproves/instashell
 cd instashell
 chmod +x instashell.sh
 service tor start
